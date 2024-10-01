@@ -1,11 +1,3 @@
-body {
-  background-color: #7393b3;
-}
-
-.App {
-  text-align: center;
-}
-
 form {
   display: flex;
   flex-direction: column;
